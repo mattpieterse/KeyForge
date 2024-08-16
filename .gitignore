@@ -1,0 +1,12 @@
+# Ignore List
+
+# - IDE & Development
+
+.idea/
+.vscode/
+.vs/
+
+# - Compiled & Intermediate Files
+
+bin/
+obj/
